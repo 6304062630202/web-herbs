@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    font-family: K2D;
+}
+.menu li{
+    margin: 0 1rem;
+}
+.bar{
+    display: flex;
+    background-color: burlywood;
+}
+
+.main{
+    background-color: beige;
+    margin: 10px;
+    padding: 20px;
+    font-family: K2D;
+}
+h1{
+    margin: 20px;
+    color: #228B22;
+}
+h2{
+    color:#FF0000;
+    font-size: 20px;
+}
+p{
+    
+    color: #000;
+    font-size: 18px;
+}
+.origin{
+    background-color: burlywood;
+    margin: 10px;
+    padding: 10px;
+    font-family: K2D;
+}
